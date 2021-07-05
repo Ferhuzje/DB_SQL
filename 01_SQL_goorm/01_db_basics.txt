@@ -9,3 +9,5 @@ USE boo;
 
 // DB loeschen --> Dann ist ALLES weg!
 DROP DATABASE boo; 
+
+// Test
